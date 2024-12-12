@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramiro Lombardi</h1>
-<h3 align="center">Finance & Data Science. Estudiante Contador Público y Lic. en Administración.</h3>
+<h3 align="center">Finance & Data Science. Estudiante Contador Público.</h3>
 
 <h3 align="left">Connect with me: ramanlombardi@gmail.com</h3>
 <p align="left">
