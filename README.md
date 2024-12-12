@@ -4,10 +4,6 @@
 
 Bienvenido a mi portafolio profesional. Soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público** y **Lic. en Administración**, con especialización en **Data Science aplicada a Finanzas**.
 
-Mi objetivo es combinar conocimientos financieros con herramientas tecnológicas avanzadas para crear soluciones innovadoras, incluyendo el desarrollo de SaaS con Python.
-
----
-
 ## Proyectos Destacados
 
 ### 1. Armando un Portfolio de Acciones con Data Science (USD $17.000)
