@@ -10,7 +10,7 @@ Mi objetivo es combinar conocimientos financieros con herramientas tecnológicas
 
 ## Proyectos Destacados
 
-### 1. Armando un Portfolio de Acciones con Data Science
+### 1. Armando un Portfolio de Acciones con Data Science (USD $17.000)
 - **Descripción**: Creación de un portafolio de inversiones optimizado con un capital inicial de USD $17,000.
 - **Tecnologías**: Python, Pandas, Matplotlib, Scikit-learn.
 - [Repositorio](#)
