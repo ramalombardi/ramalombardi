@@ -2,7 +2,7 @@
 
 ![Header](https://via.placeholder.com/800x200?text=Finance+%26+Data+Science)
 
-Bienvenido a mi portafolio profesional. Soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público** y **Lic. en Administración**, con especialización en **Data Science aplicada a Finanzas**.
+Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público**, especializándome en **Data Science aplicada a Finanzas**.
 
 ## Proyectos Destacados
 
