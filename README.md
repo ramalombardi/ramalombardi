@@ -32,9 +32,7 @@ Mi objetivo es combinar conocimientos financieros con herramientas tecnológicas
 Si deseas colaborar o tienes consultas, no dudes en contactarme:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramirolombardi-blue)](https://linkedin.com/in/ramirolombardi)
-- [![Email](https://img.shields.io/badge/Email-contacto%40ejemplo.com-red)](mailto:contacto@ejemplo.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-ramirolombardi-lightgrey)](https://github.com/ramirolombardi)
-
+- [![Email](https://img.shields.io/badge/Email-contacto%40ejemplo.com-red)](mailto:ramanlombardi@gmail.com)
 ---
 
 > "La ciencia de datos y las finanzas son dos caras de la misma moneda: herramientas para entender y transformar el mundo."
