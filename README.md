@@ -2,7 +2,7 @@
 
 Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público**, especializándome en **Data Science aplicada a Finanzas**.
 
-## Proyectos Destacados
+## Proyectos
 
 ### Armando un Portfolio de Acciones con Data Science (USD $17.000)
 - **Descripción**: Creación de un portafolio de inversiones optimizado con un capital inicial de USD $17,000.
