@@ -4,7 +4,7 @@ Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Cont
 
 ## Proyectos
 
-### Armando un Portfolio de Inversión con Data Science (USD $17.000)
+### Armando Portfolio de Inversión con Data Science (USD $17.000)
 - **Descripción**: Creación de un portafolio de inversiones optimizado con un capital inicial de USD $17,000.
 - **Tecnologías**: Python, Pandas, Matplotlib, Scikit-learn.
 - [Repositorio](#)
