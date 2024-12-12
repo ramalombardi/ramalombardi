@@ -1,7 +1,5 @@
 # Hola!👋 Soy Ramiro👨🏻‍💻.
 
-![Header](https://via.placeholder.com/800x200?text=Finance+%26+Data+Science)
-
 Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público**, especializándome en **Data Science aplicada a Finanzas**.
 
 ## Proyectos Destacados
