@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramiro Lombardi</h1>
+<h1 align="center">Hi 👋, I'm Ramiro</h1>
 <h3 align="center">Finance & Data Science. Estudiante Contador Público.</h3>
 
 <h3 align="left">Connect with me: ramanlombardi@gmail.com</h3>
