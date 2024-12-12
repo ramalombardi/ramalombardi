@@ -1,6 +1,6 @@
 # Hi!👋 I'm Ramiro👨🏻‍💻.
 
-Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público**, especializándome en **Finanzas y Data Science**.
+Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público**, especializándome en **Finanzas, aplicando Data Science**.
 
 ## Proyectos
 
