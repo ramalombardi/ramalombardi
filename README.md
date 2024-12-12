@@ -14,7 +14,7 @@ Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Cont
 - **Tecnologías**: Python, Scikit-learn, Jupyter Notebook.
 - [Repositorio](#)
 
-### 3. Visualización de Datos Trimestrales de 6 Locales de Comercio
+### Visualización de Datos Trimestrales de 6 Locales de Comercio
 - **Descripción**: Análisis visual interactivo de datos operativos para identificar patrones y tomar decisiones informadas.
 - **Tecnologías**: Python, Plotly, Dash.
 - [Repositorio](#)
