@@ -5,7 +5,7 @@ Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Cont
 ## Proyectos
 
 ### Armando Portfolio de Inversión con Data Science (USD $17.000)
-<img src="prueba.png" alt="Portfolio USD 17.000" width="75%">
+<img src="prueba.png" alt="Portfolio USD 17.000" width="90%">
 
 ### Modelo Predictivo Acciones Americanas (UTN COURSE PROJECT)
 - **Descripción**: Desarrollo de un modelo predictivo para evaluar el comportamiento de acciones americanas usando técnicas de machine learning.
