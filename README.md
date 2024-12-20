@@ -8,13 +8,3 @@ Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Cont
 <img src="prueba.png" alt="Portfolio USD 17.000" width="90%">
 
 ### Modelo Predictivo Acciones Americanas (UTN COURSE PROJECT)
-
-
-### Visualización de Datos Trimestrales de 6 Locales de Comercio
-
-
----
-
-
-
----
