@@ -8,3 +8,4 @@ Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Cont
 <img src="prueba.png" alt="Portfolio USD 17.000" width="90%">
 
 ### Modelo Predictivo Acciones Americanas (UTN COURSE PROJECT)
+https://github.com/ramalombardi/utnproyectodatascience/blob/main/utnproyectodatascience.ipynb
