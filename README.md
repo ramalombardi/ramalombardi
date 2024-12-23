@@ -8,6 +8,5 @@ Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Cont
 https://github.com/ramalombardi/utnproyectodatascience/blob/main/utnproyectodatascience.ipynb
 <img src="utnminiatura.png" alt="Portfolio USD 17.000" width="110%">
 
-### Armando Portfolio de Inversión con Data Science (USD $17.000)
-<img src="prueba.png" alt="Portfolio USD 17.000" width="110%">
+
 
