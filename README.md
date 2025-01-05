@@ -4,7 +4,8 @@ Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Cont
 
 ## Proyectos
 
-### Dashboard en Power BI para Portfolio de Acciones y ETFs (https://youtu.be/Qgt_o0YqXMs)
+### Dashboard en Power BI para Portfolio de Acciones y ETFs
+### https://youtu.be/Qgt_o0YqXMs
 <img src="dashboardportfolio.png" alt="dashboardportfolio" width="110%">
 
 ### Modelo Predictivo de Precios de Acciones Americanas (UTN COURSE PROJECT)
