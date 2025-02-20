@@ -1,4 +1,4 @@
-# Hola!👋 Soy Rama👨🏻‍💻.
+# Hola!👋 Soy Ramu👨🏻‍💻.
 
 Bienvenido a mi portfolio!, soy **Ramiro Nahuel Lombardi**, estudiante de **Contador Público** especializándome en **Finanzas aplicando Data Science**.
 
